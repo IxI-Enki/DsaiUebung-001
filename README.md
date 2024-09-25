@@ -1,9 +1,10 @@
 <sup> DsaiUebung <sup> 001 </sup></sup>
 # Markdown Warmup
 
-# - Protokoll:  
+
 ![image](https://github.com/user-attachments/assets/f983e507-2d6d-4b1a-896b-fa81b730e842)
 
+---
 
 # - Edited Files:  
 | Markdown: | Exported PDF:|
